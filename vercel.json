@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/SalesPartner_IMS_TheBikeHub_POC_v3.html" }
+  ]
+}
